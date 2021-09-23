@@ -21,5 +21,6 @@ public class StdInOut1 {
             myInts[i] = Integer.parseInt(br.readLine().trim());
         }
 
+        System.out.println(Arrays.toString(myInts));
     }
 }
