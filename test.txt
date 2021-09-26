@@ -1,0 +1,7 @@
+Thanks for your tutorials. Is there a way to grab each individual line and assign it to a variable? Somthing like
+String line [ i } = reader.readLine();
+String line1 = line[ o ];
+String line2 = line [1 ];
+
+and so on. I tried this and I get the first line on the first line1 string with the rest as nulls. Then i get the first and second line with the rest as nulls on line2 string.
+

@@ -21,14 +21,14 @@ All HackerRand's test cases passed.
 
 | ## | Problem | Solution |
 | :--- | :--- | :---: |
-| 00 | [Java Stdin and Stdout I](https://www.hackerrank.com/challenges/java-stdin-and-stdout-1/problem) | [Java] |
-| 01 | [Java If-Else](https://www.hackerrank.com/challenges/java-if-else/problem) | [Java] |
-| 02 | [Java Stdin and Stdout II](https://www.hackerrank.com/challenges/java-stdin-stdout/problem) | [Java] |
-| 03 | [Java Output Formatting](https://www.hackerrank.com/challenges/java-output-formatting/problem) | [Java] |
-| 04 | [Java Loops I](https://www.hackerrank.com/challenges/java-loops-i/problem) | [Java] |
-| 05 | [Java Loops I](https://www.hackerrank.com/challenges/java-loops/problem) | [Java] |
-| 06 | [Java Datatypes](https://www.hackerrank.com/challenges/java-datatypes/problem) | [Java] |
-| 07 | [Java End-of-file](https://www.hackerrank.com/challenges/java-end-of-file/problem) | [Java] |
+| 00 | [Java Stdin and Stdout I](https://www.hackerrank.com/challenges/java-stdin-and-stdout-1/problem) | [Java](src/main/java/introduction/StdInOut1.java) |
+| 01 | [Java If-Else](https://www.hackerrank.com/challenges/java-if-else/problem) | [Java](src/main/java/introduction/JavaIfElse.java) |
+| 02 | [Java Stdin and Stdout II](https://www.hackerrank.com/challenges/java-stdin-stdout/problem) | [Java](src/main/java/introduction/StdInOut2.java) |
+| 03 | [Java Output Formatting](https://www.hackerrank.com/challenges/java-output-formatting/problem) | [Java](src/main/java/introduction/OutputFormatting.java) |
+| 04 | [Java Loops I](https://www.hackerrank.com/challenges/java-loops-i/problem) | [Java](src/main/java/introduction/LoopsI.java) |
+| 05 | [Java Loops II](https://www.hackerrank.com/challenges/java-loops/problem) | [Java](src/main/java/introduction/JavaLoops2.java) |
+| 06 | [Java Datatypes](https://www.hackerrank.com/challenges/java-datatypes/problem) | [Java](src/main/java/introduction/Datatypes.java) |
+| 07 | [Java End-of-file](https://www.hackerrank.com/challenges/java-end-of-file/problem) | [Java](src/main/java/introduction/EndOfFile.java) |
 | 08 | [Java Static Initializer Block](https://www.hackerrank.com/challenges/java-static-initializer-block/problem) | [Java] |
 | 09 | [Java Int to String](https://www.hackerrank.com/challenges/java-int-to-string/problem) | [Java] |
 | 10 | [Java Date and Time](https://www.hackerrank.com/challenges/java-date-and-time/problem) | [Java] |
