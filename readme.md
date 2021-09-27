@@ -29,9 +29,13 @@ All HackerRand's test cases passed.
 | 05 | [Java Loops II](https://www.hackerrank.com/challenges/java-loops/problem) | [Java](src/main/java/introduction/JavaLoops2.java) |
 | 06 | [Java Datatypes](https://www.hackerrank.com/challenges/java-datatypes/problem) | [Java](src/main/java/introduction/Datatypes.java) |
 | 07 | [Java End-of-file](https://www.hackerrank.com/challenges/java-end-of-file/problem) | [Java](src/main/java/introduction/EndOfFile.java) |
-| 08 | [Java Static Initializer Block](https://www.hackerrank.com/challenges/java-static-initializer-block/problem) | [Java] |
-| 09 | [Java Int to String](https://www.hackerrank.com/challenges/java-int-to-string/problem) | [Java] |
-| 10 | [Java Date and Time](https://www.hackerrank.com/challenges/java-date-and-time/problem) | [Java] |
-| 11 | [Java Currency Formatter](https://www.hackerrank.com/challenges/java-currency-formatter/problem) | [Java] |
+| 08 | [Java Static Initializer Block](https://www.hackerrank.com/challenges/java-static-initializer-block/problem) | [Java](https://www.hackerrank.com/challenges/java-static-initializer-block/problem) |
+| 09 | [Java Int to String](https://www.hackerrank.com/challenges/java-int-to-string/problem) | [Java](src/main/java/introduction/IntToString.java) |
+| 10 | [Java Date and Time](https://www.hackerrank.com/challenges/java-date-and-time/problem) | [Java](src/main/java/introduction/DateTime.java) |
+| 11 | [Java Currency Formatter](https://www.hackerrank.com/challenges/java-currency-formatter/problem) | [Java](src/main/java/introduction/CurrencyFormatter.java) |
 
 ### Strings
+
+| ## | Problem | Solution |
+| :--- | :--- | :---: |
+| 00 | [Java Stdin and Stdout I]() | [Java] |
